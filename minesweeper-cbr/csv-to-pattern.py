@@ -1,7 +1,6 @@
 def main(): 
     csv = input()
-    pattern = csv.replace('"', '')
-    print(pattern.replace(',', ''))
+    print(csv.replace('"', '').replace(',', ''))
     input()
 
 if __name__ == '__main__':
