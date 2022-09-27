@@ -11,7 +11,6 @@ def main():
     print('-------------------------------')
     print('| ', pattern[21], ' | ', pattern[20], ' | ', pattern[19], ' | ', pattern[18], ' | ', pattern[17], ' |')
     print('-------------------------------')
-    input()
 
 if __name__ == '__main__':
     main()
